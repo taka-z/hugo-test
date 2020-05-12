@@ -1,7 +1,8 @@
-baseurl = "http://www.example.com"
+baseurl = "http://tk-zzz.github.io/hugo-test/"
 title = "johndoe"
 
 theme = "hugo-coder"
+publishDir = "docs"
 
 languagecode = "en"
 defaultcontentlanguage = "en"
