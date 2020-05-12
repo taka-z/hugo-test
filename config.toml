@@ -1,4 +1,4 @@
-baseurl = "http://tk-zzz.github.io/hugo-test/"
+baseurl = "https://tk-zzz.github.io/hugo-test/"
 title = "johndoe"
 
 theme = "hugo-coder"
