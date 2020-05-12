@@ -3,148 +3,148 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tk-zzz.github.io/hugo-test/pt-br/categories/blog/</loc>
+    <loc>https://tk-zzz.github.io/hugo-test/pt-br/categories/blog/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tk-zzz.github.io/hugo-test/pt-br/categories/</loc>
+    <loc>https://tk-zzz.github.io/hugo-test/pt-br/categories/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://tk-zzz.github.io/hugo-test/categories/"
+                href="https://tk-zzz.github.io/hugo-test/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://tk-zzz.github.io/hugo-test/pt-br/categories/"
+                href="https://tk-zzz.github.io/hugo-test/pt-br/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://tk-zzz.github.io/hugo-test/pt-br/posts/dummy/</loc>
+    <loc>https://tk-zzz.github.io/hugo-test/pt-br/posts/dummy/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tk-zzz.github.io/hugo-test/pt-br/tags/hugo/</loc>
+    <loc>https://tk-zzz.github.io/hugo-test/pt-br/tags/hugo/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://tk-zzz.github.io/hugo-test/tags/hugo/"
+                href="https://tk-zzz.github.io/hugo-test/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://tk-zzz.github.io/hugo-test/pt-br/tags/hugo/"
+                href="https://tk-zzz.github.io/hugo-test/pt-br/tags/hugo/"
                 />
   </url>
   
   <url>
-    <loc>http://tk-zzz.github.io/hugo-test/pt-br/tags/i18n/</loc>
+    <loc>https://tk-zzz.github.io/hugo-test/pt-br/tags/i18n/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tk-zzz.github.io/hugo-test/pt-br/</loc>
+    <loc>https://tk-zzz.github.io/hugo-test/pt-br/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://tk-zzz.github.io/hugo-test/"
+                href="https://tk-zzz.github.io/hugo-test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://tk-zzz.github.io/hugo-test/pt-br/"
+                href="https://tk-zzz.github.io/hugo-test/pt-br/"
                 />
   </url>
   
   <url>
-    <loc>http://tk-zzz.github.io/hugo-test/pt-br/posts/</loc>
+    <loc>https://tk-zzz.github.io/hugo-test/pt-br/posts/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://tk-zzz.github.io/hugo-test/posts/"
+                href="https://tk-zzz.github.io/hugo-test/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://tk-zzz.github.io/hugo-test/pt-br/posts/"
+                href="https://tk-zzz.github.io/hugo-test/pt-br/posts/"
                 />
   </url>
   
   <url>
-    <loc>http://tk-zzz.github.io/hugo-test/pt-br/tags/</loc>
+    <loc>https://tk-zzz.github.io/hugo-test/pt-br/tags/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://tk-zzz.github.io/hugo-test/tags/"
+                href="https://tk-zzz.github.io/hugo-test/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://tk-zzz.github.io/hugo-test/pt-br/tags/"
+                href="https://tk-zzz.github.io/hugo-test/pt-br/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://tk-zzz.github.io/hugo-test/pt-br/contact/</loc>
+    <loc>https://tk-zzz.github.io/hugo-test/pt-br/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://tk-zzz.github.io/hugo-test/contact/"
+                href="https://tk-zzz.github.io/hugo-test/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://tk-zzz.github.io/hugo-test/pt-br/contact/"
+                href="https://tk-zzz.github.io/hugo-test/pt-br/contact/"
                 />
   </url>
   
   <url>
-    <loc>http://tk-zzz.github.io/hugo-test/pt-br/projects/</loc>
+    <loc>https://tk-zzz.github.io/hugo-test/pt-br/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://tk-zzz.github.io/hugo-test/projects/"
+                href="https://tk-zzz.github.io/hugo-test/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://tk-zzz.github.io/hugo-test/pt-br/projects/"
+                href="https://tk-zzz.github.io/hugo-test/pt-br/projects/"
                 />
   </url>
   
   <url>
-    <loc>http://tk-zzz.github.io/hugo-test/pt-br/series/</loc>
+    <loc>https://tk-zzz.github.io/hugo-test/pt-br/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://tk-zzz.github.io/hugo-test/series/"
+                href="https://tk-zzz.github.io/hugo-test/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://tk-zzz.github.io/hugo-test/pt-br/series/"
+                href="https://tk-zzz.github.io/hugo-test/pt-br/series/"
                 />
   </url>
   
   <url>
-    <loc>http://tk-zzz.github.io/hugo-test/pt-br/about/</loc>
+    <loc>https://tk-zzz.github.io/hugo-test/pt-br/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://tk-zzz.github.io/hugo-test/about/"
+                href="https://tk-zzz.github.io/hugo-test/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://tk-zzz.github.io/hugo-test/pt-br/about/"
+                href="https://tk-zzz.github.io/hugo-test/pt-br/about/"
                 />
   </url>
   
